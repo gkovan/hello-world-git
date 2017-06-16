@@ -6,6 +6,7 @@ public class HelloWorldGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World Git v1");
 		System.out.println("Today is June 12");
+		System.out.println("Hello Gerry");
 
 	}
 
